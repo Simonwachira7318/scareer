@@ -1,4 +1,4 @@
-# 🚀 Welcome to Scareer
+# 🚀 Welcome to Scareer web APP
 
 A modern, production-ready web application scaffold powered by cutting-edge technologies
 ## ✨ Technology Stack
